@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    /* bg-[#FFFFF0] applies your specific hex color */
+    /* text-black makes the font color black */
+    @apply bg-[#FFFFF0] text-black antialiased;
+  }
+}

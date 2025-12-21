@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "Project One",
+    "description": "A brief description of your first active project. Explain what it does and what you're building.",
+    "status": "active",
+    "link": "https://github.com/yourusername/project-one"
+  },
+  {
+    "id": 2,
+    "title": "Project Two",
+    "description": "Another active project you're currently working on. Highlight key features and progress.",
+    "status": "active",
+    "link": "https://github.com/yourusername/project-two"
+  },
+  {
+    "id": 3,
+    "title": "Future Project Idea",
+    "description": "A project idea you're planning to build. Describe what you want to create and why.",
+    "status": "idea",
+    "link": "https://github.com/yourusername/future-project"
+  },
+  {
+    "id": 4,
+    "title": "Another Great Idea",
+    "description": "Another project idea in your backlog. This could be something you want to explore later.",
+    "status": "idea",
+    "link": "https://github.com/yourusername/another-idea"
+  }
+]
+
