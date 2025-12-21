@@ -88,14 +88,8 @@ const Home = () => {
                 rel="noopener noreferrer"
                 className="hover:text-[#CC5500] transition-colors"
               >
-                X (Twitter)
-              </a>
-              <a
-                href="https://www.linkedin.com/in/sarath-murugan-006a06ba/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-[#CC5500] transition-colors"
-              >
+               
+              
                 LinkedIn
               </a>
              
