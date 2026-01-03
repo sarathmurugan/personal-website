@@ -65,45 +65,24 @@ const Home = () => {
         </div>
 
         {/* Blog Posts Section */}
-        <div className="space-y-4 pt-4">
-          <h2 className="text-xl font-medium">Latest Blog Posts</h2>
-          <div className="text-black leading-relaxed space-y-4">
-            <div className="flex gap-3 items-start">
-              <span className="text-[#CC5500] font-medium shrink-0">+</span>
-              <a
-                href="#"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-[#CC5500] transition-colors underline"
-              >
-                Blog Post Title 1
-              </a>
-            </div>
-            <div className="flex gap-3 items-start">
-              <span className="text-[#CC5500] font-medium shrink-0">+</span>
-              <a
-                href="#"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-[#CC5500] transition-colors underline"
-              >
-                Blog Post Title 2
-              </a>
-            </div>
-            <div className="flex gap-3 items-start">
-              <span className="text-[#CC5500] font-medium shrink-0">+</span>
-              <a
-                href="#"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-[#CC5500] transition-colors underline"
-              >
-                Blog Post Title 3
-              </a>
-            </div>
-          </div>
-        </div>
+<div className="space-y-4 pt-4">
+  <h2 className="text-xl font-medium">Latest Blog Posts</h2>
+  <div className="text-black leading-relaxed space-y-4">
+    
+    <div className="flex gap-3 items-start">
+      <span className="text-[#CC5500] font-medium shrink-0">+</span>
+      <a
+        href="https://jelly-planet-cc0.notion.site/Starting-my-writing-journey-Tiny-Experiments-2dd6ea14833980ef9451f70e6f414cd7"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="hover:text-[#CC5500] transition-colors underline"
+      >
+        Starting my writing journey: Tiny Experiments
+      </a>
+    </div>
 
+  </div>
+</div>
         <div className="space-y-4 pt-8">
           <h2 className="text-xl font-medium">want to connect?</h2>
           <div className="flex flex-wrap gap-6 text-gray-400">
